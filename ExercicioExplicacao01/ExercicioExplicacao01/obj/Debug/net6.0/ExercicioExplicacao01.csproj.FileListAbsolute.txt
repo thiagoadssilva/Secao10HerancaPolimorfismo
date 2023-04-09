@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\bin\Debug\net6.0\ExercicioExplicacao01.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\bin\Debug\net6.0\ExercicioExplicacao01.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\bin\Debug\net6.0\ExercicioExplicacao01.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\bin\Debug\net6.0\ExercicioExplicacao01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\bin\Debug\net6.0\ExercicioExplicacao01.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\obj\Debug\net6.0\ExercicioExplicacao01.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\obj\Debug\net6.0\ExercicioExplicacao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\obj\Debug\net6.0\ExercicioExplicacao01.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\obj\Debug\net6.0\ExercicioExplicacao01.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\obj\Debug\net6.0\ExercicioExplicacao01.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\obj\Debug\net6.0\ExercicioExplicacao01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\obj\Debug\net6.0\refint\ExercicioExplicacao01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\obj\Debug\net6.0\ExercicioExplicacao01.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\obj\Debug\net6.0\ExercicioExplicacao01.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioExplicacao01\ExercicioExplicacao01\obj\Debug\net6.0\ref\ExercicioExplicacao01.dll
