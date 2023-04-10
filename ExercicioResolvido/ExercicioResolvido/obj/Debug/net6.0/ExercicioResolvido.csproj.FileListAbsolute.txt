@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\net6.0\ExercicioResolvido.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\net6.0\ExercicioResolvido.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\net6.0\ExercicioResolvido.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\net6.0\ExercicioResolvido.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\net6.0\ExercicioResolvido.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\refint\ExercicioResolvido.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao10HerancaPolimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ref\ExercicioResolvido.dll

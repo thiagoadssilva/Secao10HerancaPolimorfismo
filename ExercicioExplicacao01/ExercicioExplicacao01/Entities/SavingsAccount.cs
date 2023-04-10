@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExercicioExplicacao01.Entities
 {
-    class SavingsAccount : Account
+    sealed class SavingsAccount : Account
     {
         public double InteresRate { get; set; }
 
@@ -20,6 +20,12 @@ namespace ExercicioExplicacao01.Entities
         public void UpdateBalance()
         {
             Balance += Balance * InteresRate;
+        }
+
+        public sealed override void Withdraw(double amount)
+        {
+            base.Withdraw(amount);
+            Balance -= 2.0;
         }
     }
 }

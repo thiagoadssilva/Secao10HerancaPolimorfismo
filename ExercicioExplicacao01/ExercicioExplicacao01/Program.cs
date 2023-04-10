@@ -1,11 +1,20 @@
 ﻿using ExercicioExplicacao01.Entities;
 
+Account contaUm = new Account(1, "thiago", 500.0);
+Account contaDois = new SavingsAccount(2, "Dineia", 500.0, 0.01);
+
+contaUm.Withdraw(10.0);
+contaDois.Withdraw(10.0);
+
+Console.WriteLine(contaUm.Balance);
+Console.WriteLine(contaDois.Balance);
+
 //BusinessAccount businessAccount = new BusinessAccount(1010, "thiago", 100.50, 200);
 //Console.WriteLine(businessAccount.Balance);
 //businessAccount.Balance = 100; // Por conta do modificador de acesso não é permitido fazer qualquer alteração nesse atributo...
 
 // Trabalhando com Upcasting e DownCasting
-Account acc = new Account(1010, "thiago", 0.0);
+/*Account acc = new Account(1010, "thiago", 0.0);
 BusinessAccount bacc = new BusinessAccount(1011, "Dineia", 0.0, 500.00);
 
 // UPCASTING
@@ -34,4 +43,4 @@ if (acc3 is SavingsAccount)
     SavingsAccount acc5 = acc3 as SavingsAccount; // Aqui é uma outra maneira de fazer o casting
     acc5.UpdateBalance();
     Console.WriteLine("Update!");
-}
+}*/
