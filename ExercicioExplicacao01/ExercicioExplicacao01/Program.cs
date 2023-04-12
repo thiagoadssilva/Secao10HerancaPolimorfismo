@@ -1,13 +1,44 @@
 ﻿using ExercicioExplicacao01.Entities;
+using System.ComponentModel;
+using System.Globalization;
 
-Account contaUm = new Account(1, "thiago", 500.0);
+List<Account> list = new List<Account>();
+
+list.Add(new SavingsAccount(1001, "Alex", 500.0, 0.001));
+list.Add(new BusinessAccount(1002, "Maria", 500.0, 400.0));
+list.Add(new SavingsAccount(1003, "Bob", 500.0, 0.01));
+list.Add(new BusinessAccount(1004, "Anna", 500.0, 500.0));
+
+double sum = 0;
+
+foreach (Account account in list)
+{
+    sum += account.Balance;
+}
+
+Console.WriteLine("Total soma: " + sum.ToString("F2"), CultureInfo.InvariantCulture);
+
+foreach (Account account in list)
+{
+    account.Withdraw(10.0);
+}
+
+foreach (Account account in list)
+{
+    Console.WriteLine("Saldo das contas atualizado "
+        + account.Number
+        + ": "
+        + account.Balance.ToString("F2"), CultureInfo.InvariantCulture);
+}
+
+/*Account contaUm = new Account(1, "thiago", 500.0);
 Account contaDois = new SavingsAccount(2, "Dineia", 500.0, 0.01);
 
 contaUm.Withdraw(10.0);
 contaDois.Withdraw(10.0);
 
 Console.WriteLine(contaUm.Balance);
-Console.WriteLine(contaDois.Balance);
+Console.WriteLine(contaDois.Balance);*/
 
 //BusinessAccount businessAccount = new BusinessAccount(1010, "thiago", 100.50, 200);
 //Console.WriteLine(businessAccount.Balance);
